@@ -3,7 +3,7 @@
     <img
       alt="Yuliana Coach Logo"
       class="logo"
-      src="./assets/yc-logo-tiny.jpg"
+      src="https://res.cloudinary.com/dqjybk7j9/image/upload/v1604976455/ycoach/logo-tiny.jpg"
     />
     <HelloWorld msg="Bienvenid@" />
   </div>
