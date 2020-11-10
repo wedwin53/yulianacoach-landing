@@ -32,7 +32,7 @@ export default {
 }
 
 html {
-  background-image: url("dominic-dreier-kztP2WFVIXM-unsplash.jpg");
+  background-image: url("https://res.cloudinary.com/dqjybk7j9/image/upload/v1604972663/ycoach/dominic-dreier-tiny.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
