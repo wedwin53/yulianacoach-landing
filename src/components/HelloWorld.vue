@@ -7,6 +7,7 @@
       vida!
     </p>
     <br />
+     <vue-calendly url="https://calendly.com/yuliana-4/60min" :height="600"></vue-calendly>
     <p class="text-newsletter">
       Suscribase a nuestra lista para recursos y lanzamientos
     </p>
@@ -14,6 +15,10 @@
 </template>
 
 <script>
+import Vue from 'vue';
+import VueCalendly from 'vue-calendly';
+Vue.use(VueCalendly);
+
 export default {
   name: "HelloWorld",
   props: {
